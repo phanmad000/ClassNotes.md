@@ -12,21 +12,21 @@
 
 * Geographic Location: London, England
 
-** daughter of Lord Byrone, crazy playboy
+- daughter of Lord Byrone, crazy playboy
 
-** education was filled with boring subjects, none related to emotions - poetry was banned
+- education was filled with boring subjects, none related to emotions - poetry was banned
 
-** She understands Charles Babbage machine
+- She understands Charles Babbage machine
 
-** Ada allowed us to know about Babbage's invention
+- Ada allowed us to know about Babbage's invention
 
-** known as first programmer
+- known as first programmer
 
-** Babbage = totally obsessed to do mathematics
+- Babbage = totally obsessed to do mathematics
 
-** Lovelace recognized computer could do more than math
+- Lovelace recognized computer could do more than math
 
-** promotes music, stating that computer could compose music if wanted
+- promotes music, stating that computer could compose music if wanted
 
 ### Charles Babbage
 
@@ -36,34 +36,34 @@
 
 * Geographic Location: London, United Kingdom
 
-** famous mathematician
+- famous mathematician
 
-** had the idea, but then kept on changing ideas and building upon the old idea - never satisfied
+- had the idea, but then kept on changing ideas and building upon the old idea - never satisfied
 
-** created first 
+- created first 
 
-** computer made of stacks and stacks of cogs
+-  computer made of stacks and stacks of cogs
 
-** decimal machine
+- decimal machine
 
-** contemplated making it binary
+- contemplated making it binary
 
-** memory is huge
+- memory is huge
 
-** computer was entirely mechanical
+- computer was entirely mechanical
 
-** computer idd basic math functions
+- computer idd basic math functions
 
-** machine could also look at intenral memory and make a decision
+- machine could also look at intenral memory and make a decision
 
-** computer could calculate and compute
+- computer could calculate and compute
 
-** Charles Babbage also created programs to use punch cards - came up with ideas but no build
+- Charles Babbage also created programs to use punch cards - came up with ideas but no build
 
-** cogs - steam mechanical devices - usec steam
+- cogs - steam mechanical devices - usec steam
 
-** bell signified if something was wrong 
+- bell signified if something was wrong 
 
-** printer 
+- printer 
 
-** graphics - plotter 
+- graphics - plotter 
