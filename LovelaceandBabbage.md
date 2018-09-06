@@ -64,5 +64,5 @@
 
 - graphics - plotter 
 
-
-[Return to Menu](https://phanmad000.github.io/ClassNotes_md/README.md)
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href= "https://phanmad000.github.io/ClassNotes_md/README.md" aria-label="Return to Menu>Menu</a>
