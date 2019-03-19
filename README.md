@@ -9,3 +9,4 @@
 * [Notes of 2/26/19](https://phanmad000.github.io/ClassNotes_md/2-26-19.md)
 * [Notes of 2/28/19](https://phanmad000.github.io/ClassNotes_md/2-28-19.md)
 * [Notes of 3/4/19](https://phanmad000.github.io/ClassNotes_md/3-4-19.md)
+* [Notes of 3/19/19](https://phanmad000.github.io/ClassNotes_md/3-19-19.md)
